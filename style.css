@@ -1,0 +1,35 @@
+div {
+  background: grey;
+}
+#heading {
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 0px;
+}
+img {
+  background: gray;
+  height: 100px;
+  width: 100px;
+}
+table {
+  width: 100%;
+  padding: 20px;
+  color: white;
+  border-spacing: 0 30px;
+}
+
+td {
+  border-bottom: 1px solid white;
+}
+.title {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+p {
+  font-size: 20px;
+  margin-top: 0px;
+}
+.row {
+  margin-bottom: 100px;
+}
